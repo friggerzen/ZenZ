@@ -1,0 +1,2 @@
+# ZenZ
+Free AI
